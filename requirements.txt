@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+nltk
+langdetect
+deep-translator
+newspaper3k
+matplotlib
+seaborn
