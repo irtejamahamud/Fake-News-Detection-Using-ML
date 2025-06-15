@@ -1,6 +1,6 @@
 # 📰 Fake News Detection Using Machine Learning
 
-![Fake News Detection Banner](./previewfnews)
+![Fake News Detection Banner](./previewfnews.png)
 
 ## 📌 Overview
 
